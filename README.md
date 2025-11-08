@@ -1,24 +1,20 @@
 ### TL;DR 🚨 
-This is a repository template containing all the information that needs to accompany your project.
-
-Feel free to use any languages or frameworks, but the following information must be filled out in your project's README before hacking ends.
+This solution addresses community access, affordability, and inclusion — aligning with the social impact and innovation priorities of sponsors such as PepsiCo, Fidelity, McDonald’s, Toyota, and Verizon, which champion sustainable, tech-driven solutions for diverse communities.
 _______________
 _______________
 
-# Project Name
+Seat at the Table
 
-## Challenge Statement(s) Addressed 🎯
-**...include the challenge statement(s) the project worked to address**
+Challenge Statement(s) Addressed 🎯
+* How might we help commuter students within the Atlanta University Center (AUC) access affordable, healthy meals despite limited time, kitchen access, and rising food costs?
+* How might we use AI and community collaboration to reduce food waste while fostering connection and belonging among AUC commuters?
+* How might we design a scalable, data-driven model for food equity that begins in the AUC and expands to HBCUs nationwide?
 
-Examples:
-* How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
-* How might we ....
+Project Description 🤯
+Seat at the Table is an AI-powered platform that helps AUC commuter students share ingredients, cook together, and reduce food waste through community-driven meal matching. Students can post or join shared meals, pooling what they have to make affordable, balanced dishes. The platform uses AI to suggest meal ideas based on available ingredients, location, and dietary preferences, fostering collaboration and connection across campuses.
 
-## Project Description 🤯
-**....at least 3 sentences describing what the project does and how it works**
-
-## Project Value 💰
-**....at least 3 sentences describing your target customer and tangible benefits from your solution**
+Project Value 💰
+Seat at the Table improves food affordability and access for AUC commuters while giving schools and sponsors measurable insights into food security and engagement. It builds belonging, promotes sustainability, and empowers students to create shared solutions to everyday challenges. Designed to scale from the AUC to HBCUs nationwide, it represents a sustainable, tech-driven approach to campus community care.
 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
@@ -35,23 +31,23 @@ Example:
 
 ### Team Checklist ✅
 - [ ] Team photo
-- [ ] Team Slack channel
-- [ ] Communication established with mentor
-- [ ] Repo creation from this template
+- [X] Team Slack channel
+- [X] Communication established with mentor
+- [X] Repo creation from this template
 - [ ] Flight Deck registration
 
 ### Project Checklist 🏁
 - [ ] Presentation complete and linked
 - [ ] Code merged to main branch
 
-### School Name 🏫
-The ABC School
+School Name 🏫
+Spelman College 
 
-### Team Name 🏷
-Coding Costars
+Team Name 🏷
+Jaguar Byte
 
-### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
-* Team member X 
-* Team member Y 
-* Team member Z 
+✨ Contributors ✨
+* Aurelie Magloire - Frontend Developer
+* Temple Dees - Backend Developer
+* Loie White - UX Designer
+* Taliyah Rice - Project Manager
