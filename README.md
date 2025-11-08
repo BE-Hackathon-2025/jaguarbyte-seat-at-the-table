@@ -16,29 +16,28 @@ Seat at the Table is an AI-powered platform that helps AUC commuter students sha
 Project Value 💰
 Seat at the Table improves food affordability and access for AUC commuters while giving schools and sponsors measurable insights into food security and engagement. It builds belonging, promotes sustainability, and empowers students to create shared solutions to everyday challenges. Designed to scale from the AUC to HBCUs nationwide, it represents a sustainable, tech-driven approach to campus community care.
 
-## Tech Overview 💻
-**... what tech was used to bring this project to life?**
+Tech Overview 💻
+What technologies bring “Seat at the Table” to life?
 
-Example:
-* FastAPI
-* Hugging Face AI Models
-* Next.js
-* Java
-* ReactJS
+Tech Stack:
+* React — builds an interactive, responsive front-end for meal posting and matching.
+* Firebase — enables secure, real-time data sharing across AUC campuses.
+* Kroger API — provides grocery data for ingredient lookups and cost comparisons.
+* Gemini AI Matching Model — powers smart pairing by analyzing ingredients, available appliances, and user proximity.
 
 Link to Demo Presentation 📽
 https://www.canva.com/design/DAG4F6Jq7c0/I5ngYR-cRDe6tK1bFoGovA/edit?utm_content=DAG4F6Jq7c0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-### Team Checklist ✅
-- [ ] Team photo
+Team Checklist ✅
+- [X] Team photo
 - [X] Team Slack channel
 - [X] Communication established with mentor
 - [X] Repo creation from this template
-- [ ] Flight Deck registration
+- [X] Flight Deck registration
 
-### Project Checklist 🏁
-- [ ] Presentation complete and linked
-- [ ] Code merged to main branch
+Project Checklist 🏁
+- [X] Presentation complete and linked:
+- [X] Code merged to main branch
 
 School Name 🏫
 
