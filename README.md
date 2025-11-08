@@ -26,8 +26,8 @@ Example:
 * Java
 * ReactJS
 
-### Link to Demo Presentation 📽
-**...point us to your PPT or Canva slides 😍**
+Link to Demo Presentation 📽
+https://www.canva.com/design/DAG4F6Jq7c0/I5ngYR-cRDe6tK1bFoGovA/edit?utm_content=DAG4F6Jq7c0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Team Checklist ✅
 - [ ] Team photo
@@ -41,10 +41,14 @@ Example:
 - [ ] Code merged to main branch
 
 School Name 🏫
+
 Spelman College 
 
+
 Team Name 🏷
+
 Jaguar Byte
+
 
 ✨ Contributors ✨
 * Aurelie Magloire - Frontend Developer
